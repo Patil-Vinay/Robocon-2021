@@ -2,10 +2,14 @@
 
 ## Design of Defensive Robot
 
+![](https://github.com/Patil-Vinay/Robocon-2021/blob/main/DR_Robot.png)
+
 The robot has a robotic arm with a degree of freedom of 4 and has a universal gripper as one of it’s links. This gripper is pneumatically operated by a 100ml syringe. Arrows can be picked up from ground and the robotic arm can place it in the arrow shooting channel or can drop the arrow in the outer area for TR to pick it up.
 
 
 ## Design of Throw Robot
+
+![](https://github.com/Patil-Vinay/Robocon-2021/blob/main/TR_Robot.png)
 
 TR also has the same robotic arm and universal gripper to pick up arrows from the arrow stand and ground.
 An additional feature for TR is that it can store 5 arrows in a round container and one on the arrow shooting channel. The container can rotate (except the outer shell) and one arrow from the container is dropped on the arrow channel using a servo operated flap.
