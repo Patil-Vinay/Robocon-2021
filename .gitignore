@@ -1,0 +1,11 @@
+# SolidWorks temp and backup files
+~$*
+*.SLDBAK
+Backup of *
+
+# unzipped STEP exports (about 33 MB each, keep only the zips)
+*.STEP
+*.stp
+
+Thumbs.db
+.DS_Store
